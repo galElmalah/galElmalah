@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=galelmalah&label=Profile%20views&color=0e75b6&style=flat" alt="galelmalah" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=galelmalah" alt="galelmalah" /></a> </p>
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=galelmalah&title=Commit ,Stars" alt="galelmalah" /></a> </p>
+ 
 <p align="left"> <a href="https://twitter.com/galelmalah" target="blank"><img src="https://img.shields.io/twitter/follow/galelmalah?logo=twitter&style=for-the-badge" alt="galelmalah" /></a> </p>
 
 - 🔭 I’m currently working on [Scaffolder](https://github.com/galElmalah/scaffolder)
