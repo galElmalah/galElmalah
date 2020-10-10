@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gal Elmalah</h1>
-<h3 align="center">FED [@Wix](https://www.wix.com); Love to code, MTB's 🚲, running and reading</h3>
+<h3 align="center">FED <a href="https://www.wix.com">@Wix</a>; Love to code, MTB's 🚲, running and reading</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=galelmalah&label=Profile%20views&color=0e75b6&style=flat" alt="galelmalah" /> </p>
 
