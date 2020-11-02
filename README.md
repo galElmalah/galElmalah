@@ -15,11 +15,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Visualizing Bubble Sort in 5 Minutes Using HTML5 Canvas API](https://dev.to/galelmalah/visualizing-bubble-sort-in-5-minutes-using-html5-canvas-api-4d1b)
 - [Open Hacktoberfest Issues on Scaffolder](https://dev.to/galelmalah/open-hacktoberfest-issues-on-scaffolder-4pd4)
 - [9 Great Tips To Use Javascript Array Methods Like a Pro!](https://dev.to/galelmalah/9-great-tips-to-use-array-methods-like-a-pro-dcc)
 - [Sharing templates with Scaffolder!](https://dev.to/galelmalah/sharing-templates-with-scaffolder-17a)
 - [Update: new scaffolder vscode extenstion!](https://dev.to/galelmalah/update-new-scaffolder-vscode-extenstion-1dj3)
-- [What is Scaffolder, and how you can use it to increase your team dev velocity](https://dev.to/galelmalah/what-is-scaffolder-and-how-you-can-use-it-to-increase-your-team-dev-velocity-558l)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
